@@ -93,6 +93,7 @@ the original image only in case the key matches.
 
 The image encryption and decryption algorithm is designed and implemented to
 provide confidentiality and security in transmission of the image.
+
 ---
 
 <div id="header" align="center">
